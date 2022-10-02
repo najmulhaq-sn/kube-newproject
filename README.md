@@ -1,5 +1,5 @@
 first cloun the url 
-
+# git clone https://github.com/najmulhaq-sn/kube-newproject.git
 
 next do  (everithing will run one by one)
 # kubectl create -f .
